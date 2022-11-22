@@ -2,4 +2,5 @@ today
 tommorow
 day after tommorow
 git is widely used tool
-git is confusing tool too 
+git is confusing tool too
+git is easy to work with
