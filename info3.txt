@@ -4,3 +4,4 @@ day after tommorow
 git is widely used tool
 git is confusing tool too
 git is easy to work with
+git commit
