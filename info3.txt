@@ -6,3 +6,5 @@ git is confusing tool too
 git is easy to work with
 git is easy they think
 git commit
+git is confusing tool too 
+git is not good one
