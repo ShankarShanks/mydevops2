@@ -11,3 +11,7 @@ git is used by most of the devlopers
 will try git fetch now
 will try to merge it now
 git is cool
+git is used by most of the devlopers
+git is easy to work with
+git is confusing nd tricky
+today class was okay
