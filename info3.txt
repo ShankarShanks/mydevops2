@@ -15,3 +15,4 @@ git is used by most of the devlopers
 git is easy to work with
 git is confusing nd tricky
 today class was okay
+git is not good one.
