@@ -8,3 +8,4 @@ git is easy they think
 git commit
 git is oky okay
 git is used by most of the devlopers
+will try to merge it now
