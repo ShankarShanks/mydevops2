@@ -10,3 +10,4 @@ git is oky okay
 git is used by most of the devlopers
 will try git fetch now
 will try to merge it now
+git is cool
